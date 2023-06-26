@@ -24,7 +24,8 @@
         android:text="Fundamentos de Android"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
+        app:layout_constraintTop_toTopOf="parent"
+        style="@style/ColorButton" />
 
     <CalendarView
         android:id="@+id/calendarView"

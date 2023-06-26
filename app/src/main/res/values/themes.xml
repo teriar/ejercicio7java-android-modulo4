@@ -1,0 +1,12 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Ejercicio7Modulo4AndroidJava" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <item name="android:background">#5EE6B8</item>
+
+        <item name="android:textColor">#4BCEE6</item>
+    </style>
+
+    <style name="Theme.Ejercicio7Modulo4AndroidJava" parent="Base.Theme.Ejercicio7Modulo4AndroidJava" />
+</resources>
